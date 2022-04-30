@@ -10,5 +10,5 @@ Go to my Repository and download the fake-job-postings_Final.ipynb file.
 
 Now, As we have our ipynb file and dataset with us, we need a python development platforminorder to execute the code. It can be either Jupyter note book or the google colab. Now we execute the code by placing the dataset in a directory path, and import the ipynb notebook into the jupyter notebook. And in the second cell please provide the directory of the dataset filepath.
 
-==================================================================================================================
+==================================================================================
 Running the jupyter notebook will provide the final accuracies of the models. 
